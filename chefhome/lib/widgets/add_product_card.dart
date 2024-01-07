@@ -48,7 +48,7 @@ class AddProductCard extends StatelessWidget {
 
   Dialog _buildNewProduct(BuildContext context) {
     Product product = const Product(
-      restaurantId: 'TLiVCyp5J7dWTHR7bUi7',
+      restaurantId: 'q4G21wDt8jkKVogfsznE',
       name: '',
       category: '',
       description: '',

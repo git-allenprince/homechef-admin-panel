@@ -60,7 +60,7 @@ class Category extends Equatable {
       name: 'Breakfast',
       description:
           'Start your day with a delightful feast! Our breakfast options are a symphony of flavors delivered to your doorstep, ensuring a fresh and savory beginning to your morning.',
-      imageUrl: 'images/breakfast.jpeg',
+      imageUrl: 'assets/images/breakfast.jpeg',
       index: 0,
     ),
     Category(
@@ -68,7 +68,7 @@ class Category extends Equatable {
       name: 'Lunch',
       description:
           'Indulge in a midday masterpiece with our lunchtime delights! Our curated menu brings you a symphony of savory flavors, prepared with passion and delivered straight to your door.',
-      imageUrl: 'images/pothichorr.jpeg',
+      imageUrl: 'assets/images/pothichorr.jpeg',
       index: 1,
     ),
     Category(
@@ -76,7 +76,15 @@ class Category extends Equatable {
       name: 'Dinner',
       description:
           'Transform your evenings with our gourmet dinner offerings! Elevate your dining experience with a delectable selection of dishes crafted to perfection.',
-      imageUrl: 'images/gheerice.jpeg',
+      imageUrl: 'assets/images/gheerice.jpeg',
+      index: 2,
+    ),
+    Category(
+      id: '4',
+      name: 'Drinks',
+      description:
+          'Transform your evenings with our gourmet dinner offerings! Elevate your dining experience with a delectable selection of dishes crafted to perfection.',
+      imageUrl: 'assets/images/freshjuice.jpeg',
       index: 2,
     ),
   ];
