@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248562697592",
+    "project_id": "chefhome-52cca",
+    "storage_bucket": "chefhome-52cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248562697592:android:54bf865d98c73307d8748d",
+        "android_client_info": {
+          "package_name": "com.example.chefhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBboJ2czTPpKq8DkUaUQcIzbcAqRRcwhhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
